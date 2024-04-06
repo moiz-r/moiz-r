@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Moiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazersocks&show_icons=true&hide=stars&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazersocks&exclude_repo=Chaye_Runner,BlueBookforBulldozers&langs_count=5&layout=compact&theme=tokyonight&hide=CSS)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Saad's time stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MuhammadSaad0&theme=tokyonight&langs_count=5&hide=Git%20Config,JSON)](https://github.com/anuraghazra/github-readme-stats)
