@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Moiz's Stats](https://github-readme-stats.vercel.app/api?username=lazersocks&theme=synthwave&show_icons=true&hide_border=false&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;![Moiz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazersocks&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
+![Moiz's Stats](https://github-readme-stats.vercel.app/api?username=moiz-r&theme=synthwave&show_icons=true&hide_border=false&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;![Moiz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moiz-r&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
 
-![Moiz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lazersocks&theme=synthwave&hide_border=false)
+![Moiz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=moiz-r&theme=synthwave&hide_border=false)
